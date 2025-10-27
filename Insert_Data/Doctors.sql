@@ -1,0 +1,10 @@
+INSERT INTO Doctors VALUES ('D001','David','Taylor','Dermatology','8322010158',17,'dr.david.taylor@hospital.com');
+INSERT INTO Doctors VALUES ('D002','Jane','Davis','Pediatrics','9004382050',24,'dr.jane.davis@hospital.com');
+INSERT INTO Doctors VALUES ('D003','Jane','Smith','Pediatrics','8737740598',19,'dr.jane.smith@hospital.com');
+INSERT INTO Doctors VALUES ('D004','David','Jones','Pediatrics','6594221991',28,'dr.david.jones@hospital.com');
+INSERT INTO Doctors VALUES ('D005','Sarah','Taylor','Dermatology','9118538547',26,'dr.sarah.taylor@hospital.com');
+INSERT INTO Doctors VALUES ('D006','Alex','Davis','Pediatrics','6570137231',23,'dr.alex.davis@hospital.com');
+INSERT INTO Doctors VALUES ('D007','Robert','Davis','Oncology','8217493115',26,'dr.robert.davis@hospital.com');
+INSERT INTO Doctors VALUES ('D008','Linda','Brown','Dermatology','9069162601',5,'dr.linda.brown@hospital.com');
+INSERT INTO Doctors VALUES ('D009','Sarah','Smith','Pediatrics','7387087517',26,'dr.sarah.smith@hospital.com');
+INSERT INTO Doctors VALUES ('D010','Linda','Wilson','Oncology','6176383634',21,'dr.linda.wilson@hospital.com');

@@ -1,0 +1,10 @@
+INSERT INTO Treatments VALUES ('T001','A001','Chemotherapy','Basic screening',3941.97,'2023-08-09');
+INSERT INTO Treatments VALUES ('T002','A002','MRI','Advanced protocol',4158.44,'2023-06-09');
+INSERT INTO Treatments VALUES ('T003','A003','MRI','Standard procedure',3731.55,'2023-06-28');
+INSERT INTO Treatments VALUES ('T004','A004','MRI','Basic screening',4799.86,'2023-09-01');
+INSERT INTO Treatments VALUES ('T005','A005','ECG','Standard procedure',582.05,'2023-07-06');
+INSERT INTO Treatments VALUES ('T006','A006','Chemotherapy','Standard procedure',1381.0,'2023-06-19');
+INSERT INTO Treatments VALUES ('T007','A007','Chemotherapy','Advanced protocol',534.03,'2023-04-09');
+INSERT INTO Treatments VALUES ('T008','A008','Physiotherapy','Basic screening',3413.64,'2023-05-24');
+INSERT INTO Treatments VALUES ('T009','A009','Physiotherapy','Standard procedure',4541.14,'2023-03-05');
+INSERT INTO Treatments VALUES ('T010','A010','Physiotherapy','Standard procedure',1595.67,'2023-01-13');

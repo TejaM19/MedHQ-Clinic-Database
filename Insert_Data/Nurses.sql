@@ -1,0 +1,10 @@
+INSERT INTO Nurses VALUES ('N001','Sarah','Johnson','General','9184935163','nurse.sarah.johnson@hospital.com','Night',6);
+INSERT INTO Nurses VALUES ('N002','Emily','Williams','ICU','9163119785','nurse.emily.williams@hospital.com','Day',5);
+INSERT INTO Nurses VALUES ('N003','Jessica','Brown','Surgical','7812140441','nurse.jessica.brown@hospital.com','Day',6);
+INSERT INTO Nurses VALUES ('N004','Ashley','Jones','ICU','6999270936','nurse.ashley.jones@hospital.com','Evening',6);
+INSERT INTO Nurses VALUES ('N005','Amanda','Garcia','Surgical','6854001193','nurse.amanda.garcia@hospital.com','Evening',7);
+INSERT INTO Nurses VALUES ('N006','Rachel','Miller','ICU','7929338154','nurse.rachel.miller@hospital.com','Evening',3);
+INSERT INTO Nurses VALUES ('N007','Jennifer','Davis','ICU','8998485882','nurse.jennifer.davis@hospital.com','Night',7);
+INSERT INTO Nurses VALUES ('N008','Michelle','Rodriguez','ICU','6924765563','nurse.michelle.rodriguez@hospital.com','Night',4);
+INSERT INTO Nurses VALUES ('N009','Stephanie','Martinez','Pediatric','6415393687','nurse.stephanie.martinez@hospital.com','Night',6);
+INSERT INTO Nurses VALUES ('N010','Nicole','Hernandez','General','9134174160','nurse.nicole.hernandez@hospital.com','Night',4);

@@ -1,0 +1,10 @@
+INSERT INTO Billing VALUES ('B001','P001','T001','2023-08-09',3941.97,'Insurance','Pending');
+INSERT INTO Billing VALUES ('B002','P002','T002','2023-06-09',4158.44,'Insurance','Paid');
+INSERT INTO Billing VALUES ('B003','P003','T003','2023-06-28',3731.55,'Insurance','Paid');
+INSERT INTO Billing VALUES ('B004','P004','T004','2023-09-01',4799.86,'Insurance','Failed');
+INSERT INTO Billing VALUES ('B005','P005','T005','2023-07-06',582.05,'Credit Card','Pending');
+INSERT INTO Billing VALUES ('B006','P006','T006','2023-06-19',1381.0,'Insurance','Pending');
+INSERT INTO Billing VALUES ('B007','P007','T007','2023-04-09',534.03,'Cash','Failed');
+INSERT INTO Billing VALUES ('B008','P008','T008','2023-05-24',3413.64,'Cash','Failed');
+INSERT INTO Billing VALUES ('B009','P009','T009','2023-03-05',4541.14,'Credit Card','Paid');
+INSERT INTO Billing VALUES ('B010','P010','T010','2023-01-13',1595.67,'Cash','Paid');

@@ -1,0 +1,10 @@
+INSERT INTO Appointments VALUES ('A001','P001','D001','2023-08-09','15:15:00','Therapy','Scheduled');
+INSERT INTO Appointments VALUES ('A002','P002','D002','2023-06-09','14:30:00','Therapy','No-show');
+INSERT INTO Appointments VALUES ('A003','P003','D003','2023-06-28','8:00:00','Consultation','Cancelled');
+INSERT INTO Appointments VALUES ('A004','P004','D004','2023-09-01','9:15:00','Consultation','Cancelled');
+INSERT INTO Appointments VALUES ('A005','P005','D005','2023-07-06','12:45:00','Emergency','No-show');
+INSERT INTO Appointments VALUES ('A006','P006','D006','2023-06-19','16:15:00','Checkup','Scheduled');
+INSERT INTO Appointments VALUES ('A007','P007','D007','2023-04-09','10:30:00','Consultation','Scheduled');
+INSERT INTO Appointments VALUES ('A008','P008','D008','2023-05-24','8:45:00','Consultation','Cancelled');
+INSERT INTO Appointments VALUES ('A009','P009','D009','2023-03-05','13:45:00','Follow-up','Scheduled');
+INSERT INTO Appointments VALUES ('A010','P010','D010','2023-01-13','15:30:00','Therapy','Completed');

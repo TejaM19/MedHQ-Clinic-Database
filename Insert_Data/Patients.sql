@@ -1,0 +1,10 @@
+INSERT INTO Patients VALUES ('P001','David','Williams','F','1955-06-04','6939585183','789 Pine Rd','2022-06-23','WellnessCorp','INS840674','david.williams@mail.com');
+INSERT INTO Patients VALUES ('P002','Emily','Smith','F','1984-10-12','8228188767','321 Maple Dr','2022-01-15','PulseSecure','INS354079','emily.smith@mail.com');
+INSERT INTO Patients VALUES ('P003','Laura','Jones','M','1977-08-21','8397029847','321 Maple Dr','2022-02-07','PulseSecure','INS650929','laura.jones@mail.com');
+INSERT INTO Patients VALUES ('P004','Michael','Johnson','F','1981-02-20','9019443432','123 Elm St','2021-03-02','HealthIndia','INS789944','michael.johnson@mail.com');
+INSERT INTO Patients VALUES ('P005','David','Wilson','M','1960-06-23','7734463155','123 Elm St','2021-09-29','MedCare Plus','INS788105','david.wilson@mail.com');
+INSERT INTO Patients VALUES ('P006','Linda','Jones','M','1963-06-16','7561777264','321 Maple Dr','2022-10-02','HealthIndia','INS613758','linda.jones@mail.com');
+INSERT INTO Patients VALUES ('P007','Alex','Johnson','F','1989-06-08','6278710077','789 Pine Rd','2021-12-25','MedCare Plus','INS465890','alex.johnson@mail.com');
+INSERT INTO Patients VALUES ('P008','David','Davis','F','1976-07-05','7090558393','456 Oak Ave','2021-05-25','WellnessCorp','INS545101','david.davis@mail.com');
+INSERT INTO Patients VALUES ('P009','Laura','Davis','M','1971-12-11','7060324619','321 Maple Dr','2022-09-18','PulseSecure','INS136631','laura.davis@mail.com');
+INSERT INTO Patients VALUES ('P010','Michael','Taylor','M','2001-10-13','7081396733','123 Elm St','2022-08-24','WellnessCorp','INS866577','michael.taylor@mail.com');
